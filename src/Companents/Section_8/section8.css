@@ -1,0 +1,33 @@
+.Section8{
+    padding-top: 104px;
+    padding-bottom: 63px;
+    width: 100%;
+    /* height: 520px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    /* border:  2px solid red; */
+}
+.Section8 h1{
+    font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 32.4px;
+text-align: center;
+color: rgba(86, 89, 61, 1);
+}
+
+.section8_img{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    /* align-items: center; */
+}
+
+.section8_img a img{
+    width: 289px;
+    height: 289px;
+}

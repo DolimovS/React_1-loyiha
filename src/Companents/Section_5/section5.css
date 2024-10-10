@@ -1,0 +1,45 @@
+.Section5{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* justify-self: center; */
+    gap: 120px;
+    height: 746px;
+    background: rgba(255, 255, 239, 1);
+}
+.Section5 img{
+    width: 55%;
+}
+
+.section5_right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.section5_right h1{
+    font-family: Roboto;
+font-size: 29px;
+font-weight: 400;
+line-height: 38.88px;
+text-align: center;
+color: rgba(86, 89, 61, 1);
+}
+.section5_right .line{
+    height: 1px;
+    width: 40px;
+    background: rgba(113, 115, 83, 1);
+
+}
+
+.section5_right p{
+    width: 347px;
+    font-family: Jost;
+font-size: 20px;
+font-weight: 400;
+line-height: 32.4px;
+text-align: center;
+color: rgba(86, 89, 61, 1);
+}

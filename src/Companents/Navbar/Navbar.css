@@ -1,0 +1,39 @@
+.Navbar{
+    display: flex;
+    /* border: 2px solid red; */
+    padding: 20px ;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.nav_links{
+    display: flex;
+    gap: 30px;
+}
+
+.nav_links a{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.2px;
+letter-spacing: 1.5750000476837158px;
+text-align: left;
+color: rgba(86, 89, 61, 1);
+
+}
+.nav_logo{
+    padding-left: 50px;
+}
+.nav_icons{
+    /* border: 2px solid red; */
+    display: flex;
+    gap: 10px;
+}
+.nav_icon{
+    width: 32px;
+    height: 32px;
+}
+
+.nav_icon:hover{
+    cursor: pointer;
+}
